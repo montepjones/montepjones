@@ -1,11 +1,9 @@
 -👋 Hi, I’m @montepjones
-👀 I’m interested in software development, IT automation, problem-solving, and collaborating on innovative projects.
-🌱 I’m currently learning Kubernetes and continuously enhancing my skills in Python programming and software development methodologies.
-💞️ I’m looking to collaborate on projects related to automation, software development, and IT solutions that require creative problem-solving.
-📫 How to reach me:
-Email: montepjones@gmail.com
-LinkedIn: linkedin.com/in/montepjones
-
+- 👀 I’m interested in software development, IT automation, problem-solving, and collaborating on innovative projects.
+- 🌱 I’m currently learning Kubernetes and continuously enhancing my skills in Python programming and software development methodologies.
+- 💞️ I’m looking to collaborate on projects related to automation, software development, and IT solutions thhat require creative problem-solving.
+- 📫 How to reach me:
+Email: montepjones@gmail.com, [LinkedIn:](http://linkedin.com/in/montepjones)
 
 GitHub Profile: [github.com/montepjones](https://github.com/montepjones)
 
